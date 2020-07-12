@@ -61,7 +61,6 @@ def get_url_text(url):
 
 
 def download_all_episodes():
-
     if not os.path.isdir('data'):
         os.mkdir('data')
 
@@ -141,26 +140,27 @@ def addLineAccumulatorData(acc, speaker, text):
 
     return acc
 
+
 def unifyLocations(counter, froms, to):
     for from_loc in froms:
         if from_loc in counter.elements():
             counter[to] += counter[from_loc]
             del counter[from_loc]
-    
+
 
 def mergeVariationsCounter(counter):
-    unifyLocations(counter,[
+    unifyLocations(counter, [
         "flashback scene",
         "flashback scene from last week"
-        ],"flashback")
-    
-    unifyLocations(counter,[
+    ], "flashback")
+
+    unifyLocations(counter, [
         "central park",
         "cental perk",
         "ross is in central perk"
-        ],"central perk")
-    
-    unifyLocations(counter,[
+    ], "central perk")
+
+    unifyLocations(counter, [
         "rachel and monica's",
         "rachel's bedroom",
         "monica and rachel's erm",
@@ -175,8 +175,8 @@ def mergeVariationsCounter(counter):
         "monica and chandler's",
         "monica and chandler's bedroom",
         "chandler and monica's",
-        ],"monica and chandler's apartment")
-    unifyLocations(counter,[
+    ], "monica and chandler's apartment")
+    unifyLocations(counter, [
         "chandler and joey's apartment",
         "chandler and joey's erm",
         "joey and rachel's apartment",
@@ -187,29 +187,29 @@ def mergeVariationsCounter(counter):
         "chandler and joey's",
         "chandler and eddie's apartment"
         "at chandler and joey's",
-        ],"joey's apartment")
+    ], "joey's apartment")
 
-    unifyLocations(counter,[
+    unifyLocations(counter, [
         "ross' apartment",
-        ],"ross's apartment")
+    ], "ross's apartment")
 
-    unifyLocations(counter,[
+    unifyLocations(counter, [
         "phoebe's",
         "phoebe and rachel's",
-        ],"phoebe's apartment")
+    ], "phoebe's apartment")
 
-    unifyLocations(counter,[
+    unifyLocations(counter, [
         "the hallway between the apartments",
         "cut to the hallway"
-        ],"the hallway")
+    ], "the hallway")
 
-    unifyLocations(counter,[
+    unifyLocations(counter, [
         "ross and rachel's",
-        ],"ross and rachel's apartment")
-        
-    unifyLocations(counter,[
+    ], "ross and rachel's apartment")
+
+    unifyLocations(counter, [
         "restaurant",
-        ],"a restaurant")
+    ], "a restaurant")
     return counter
 
 
@@ -222,15 +222,15 @@ def findLastLocation(locations):
 
 def extract_episode_name(ep_name):
     if len(ep_name) > 4:
-        ep_name = ep_name[2:5]+ep_name[7:]
+        ep_name = ep_name[2:5] + ep_name[7:]
     else:
         ep_name = ep_name[2:]
     return ep_name
 
-def attachCountingLocations(acc, counter):
-    for loc in most_common_location:  
-        acc[f'{loc}_sentence_count'] = counter[loc]
 
+def attachCountingLocations(acc, counter):
+    for loc in most_common_location:
+        acc[f'{loc}_sentence_count'] = counter[loc]
 
 
 def convert_script_to_df(season, season_dir_path, ep_name):
@@ -290,7 +290,7 @@ def convert_script_to_df(season, season_dir_path, ep_name):
     season_col = [season] * len(scenes)
     df = pd.DataFrame(list(zip(season_col, episode_col, scenes, locations, all_rows['speaker'], all_rows['text'])),
                       columns=['Season', 'Episode', 'Scene', 'Location', 'Speaker', 'Text'])
-    
+
     del locationCnt[None]
     if len(locationCnt.most_common(1)) > 0:
         mergeVariationsCounter(locationCnt)
@@ -443,7 +443,7 @@ def combine_double_episodes_rating(metadata_df):
 
 def create_corr_series(metadata_df, counters_df, season):
     counters_df = counters_df[
-       ['season']+[f'{entity}_sentence_count' for entity in most_common_location + boys + girls]]
+        ['season'] + [f'{entity}_sentence_count' for entity in most_common_location + boys + girls]]
     counters_df['ratings'] = list(metadata_df['episode_rating'])
     corr_df = counters_df.corr()['ratings']
     corr_df['season'] = season
@@ -451,12 +451,27 @@ def create_corr_series(metadata_df, counters_df, season):
     return corr_df
 
 
+def normalize_counters(counters_df):
+    from sklearn import preprocessing
+    columns_to_normalize = [['ross_sentence_count', 'chandler_sentence_count', 'joey_sentence_count', 'rachel_sentence_count', 'monica_sentence_count', 'phoebe_sentence_count'],
+                            [f'{entity}_sentence_count' for entity in most_common_location],
+                            ['girls_sentence_count', 'boys_sentence_count']]
+    for columns_group in columns_to_normalize:
+        df = counters_df[columns_group]
+        normalized_df = df.divide(pd.Series(df.sum(axis=1)), axis=0)
+        counters_df[columns_group] = normalized_df
+    return counters_df
+
+
 def create_corr_tables():
     import warnings
     warnings.filterwarnings('ignore')
 
     counters_df = pd.read_csv('data/merged_counters.csv')
-    counters_df = counters_df[['season', 'episode','girls_sentence_count', 'boys_sentence_count']+[f'{entity}_sentence_count' for entity in most_common_location + boys + girls]]
+    counters_df = counters_df[
+        ['season', 'episode', 'girls_sentence_count', 'boys_sentence_count'] + [f'{entity}_sentence_count' for entity in
+                                                                                most_common_location + boys + girls]]
+    counters_df = normalize_counters(counters_df)
     metadata_df = pd.read_csv('data/friends_metadata.csv')
     metadata_df = combine_double_episodes_rating(metadata_df)
 
@@ -471,9 +486,9 @@ def create_corr_tables():
     seasons_corr.append(show_corr)
 
     df = pd.DataFrame(seasons_corr)
-    columns = ['season']+[f'{entity}_correlation' for entity in most_common_location + boys + girls]
+    columns = ['season'] + [f'{entity}_correlation' for entity in most_common_location + boys + girls]
     df.columns = columns
-    df.to_csv('data/characters_correlation.csv', index=False)
+    df.to_csv('data/correlation_table.csv', index=False)
 
 
 def main():

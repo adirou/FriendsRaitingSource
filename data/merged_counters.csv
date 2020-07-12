@@ -1,0 +1,229 @@
+season,episode,ross_sentence_count,ross_word_count,chandler_sentence_count,chandler_word_count,joey_sentence_count,joey_word_count,rachel_sentence_count,rachel_word_count,monica_sentence_count,monica_word_count,phoebe_sentence_count,phoebe_word_count,monica and chandler's apartment_sentence_count,central perk_sentence_count,joey's apartment_sentence_count,ross's apartment_sentence_count,the hallway_sentence_count,phoebe's apartment_sentence_count,a restaurant_sentence_count,ross and rachel's apartment_sentence_count,rachel's office_sentence_count,the hospital_sentence_count,girls_sentence_count,boys_sentence_count,girls_word_count,boys_word_count,most_sentences_in_location,gender_words_counter,gender_sentences_counter,actor_most_sentences,actor_most_words
+1,01,49,337,40,251,40,254,49,361,73,518,20,160,90,140,0,45,0,0,9,0,0,0,142,125,1039,837,central perk,girls,girls,monica,monica
+1,02,63,583,17,184,9,70,38,347,28,240,14,119,93,42,0,0,0,0,0,0,0,0,80,88,706,834,monica and chandler's apartment,boys,boys,ross,ross
+1,03,33,305,36,377,28,224,26,231,52,481,38,420,94,102,21,0,0,0,5,0,0,0,116,97,1132,906,central perk,girls,girls,monica,monica
+1,04,40,310,32,238,24,165,43,333,48,324,32,222,106,81,0,0,0,0,0,0,0,0,122,96,875,713,monica and chandler's apartment,girls,girls,monica,rachel
+1,05,40,394,35,303,36,332,37,325,33,298,23,205,9,115,0,12,0,0,0,0,0,0,93,111,828,1029,central perk,boys,boys,ross,ross
+1,06,22,198,58,567,30,295,15,135,34,294,10,111,87,44,35,0,0,0,0,0,0,0,59,110,540,1060,monica and chandler's apartment,boys,boys,chandler,chandler
+1,07,53,419,25,246,28,223,43,302,24,156,25,247,156,2,0,0,0,0,0,0,0,0,91,105,697,880,monica and chandler's apartment,boys,boys,ross,ross
+1,08,48,430,37,324,11,74,18,161,34,241,16,125,47,30,0,0,0,0,0,0,0,11,68,96,527,828,the wake,boys,boys,ross,ross
+1,09,36,357,26,248,33,271,35,341,48,406,20,192,73,51,0,0,49,0,0,0,0,0,103,95,939,876,monica and chandler's apartment,girls,girls,monica,monica
+1,10,29,286,31,318,19,160,18,150,23,157,49,398,104,76,0,0,0,0,0,0,0,0,90,79,705,764,monica and chandler's apartment,boys,girls,phoebe,phoebe
+1,11,62,480,42,365,32,306,19,160,42,279,41,296,45,35,63,0,26,0,0,0,0,1,101,136,732,1151,joey's apartment,boys,boys,ross,ross
+1,12,52,454,39,299,38,303,38,316,23,205,45,330,60,27,44,0,4,0,0,0,0,0,105,122,840,1030,monica and chandler's apartment,boys,boys,ross,ross
+1,13,12,112,35,303,43,379,27,235,18,112,27,230,90,70,76,0,7,0,0,0,0,0,72,90,577,794,monica and chandler's apartment,boys,boys,joey,joey
+1,14,22,213,40,337,21,210,20,158,21,162,12,140,45,38,0,0,17,0,8,0,0,0,52,83,458,760,monica and chandler's apartment,boys,boys,chandler,chandler
+1,15,38,314,36,374,32,262,33,227,40,375,30,283,111,57,38,13,0,0,0,0,0,0,103,106,885,950,monica and chandler's apartment,boys,boys,monica,monica
+1,16,33,292,53,485,27,206,24,203,18,131,38,287,83,28,0,0,0,0,0,0,0,0,79,111,618,977,monica and chandler's apartment,boys,boys,chandler,chandler
+1,17,35,311,22,182,27,220,58,481,61,501,33,221,118,46,0,0,0,0,12,0,0,23,144,82,1153,708,monica and chandler's apartment,girls,girls,monica,monica
+1,18,62,471,32,270,25,219,68,552,38,301,38,280,183,49,0,38,0,0,0,0,0,0,142,118,1123,958,monica and chandler's apartment,girls,girls,rachel,rachel
+1,19,51,500,18,169,17,134,58,500,38,293,24,177,108,21,0,0,0,0,0,0,0,0,119,85,966,801,monica and chandler's apartment,girls,girls,rachel,ross
+1,20,21,167,42,352,24,228,57,517,31,238,18,134,108,88,0,0,0,0,0,0,0,0,106,86,889,740,monica and chandler's apartment,girls,girls,rachel,rachel
+1,21,29,282,22,179,22,201,31,257,69,638,15,123,82,57,0,0,0,0,0,0,0,0,114,71,1016,648,monica and chandler's apartment,girls,girls,monica,monica
+1,22,39,312,57,418,24,173,35,228,48,370,44,371,112,108,0,0,18,0,0,0,0,0,126,116,966,892,monica and chandler's apartment,girls,girls,chandler,chandler
+1,23,57,454,21,188,25,239,22,181,20,151,19,178,0,0,0,0,0,0,0,0,0,33,61,103,510,881,the waiting room,boys,boys,ross,ross
+1,24,38,303,35,290,42,402,53,465,40,339,24,213,155,20,27,0,0,0,0,0,0,0,115,115,1013,995,monica and chandler's apartment,girls,boys,rachel,rachel
+2,01,45,376,27,254,22,212,46,406,27,219,33,308,134,32,0,0,0,0,0,0,0,0,106,94,933,842,monica and chandler's apartment,girls,girls,rachel,rachel
+2,02,23,207,15,130,25,221,35,296,32,277,21,190,93,52,11,0,0,0,0,0,0,0,88,63,763,558,monica and chandler's apartment,girls,girls,rachel,rachel
+2,03,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,boys,boys,ross,ross
+2,04,45,340,17,180,13,144,47,519,16,183,33,311,1,8,0,31,0,0,0,0,0,0,96,75,1013,664,madison square garden,girls,girls,rachel,rachel
+2,05,56,504,63,613,31,233,31,232,38,328,25,211,0,0,0,0,0,0,0,0,0,0,94,150,771,1350,at chandler and joey's,boys,boys,chandler,chandler
+2,06,31,334,37,329,34,298,24,233,26,283,34,382,0,0,0,0,0,0,0,0,0,0,84,100,898,939,0,boys,boys,chandler,phoebe
+2,07,38,356,0,0,18,159,1,14,0,0,0,0,12,31,43,0,0,0,0,0,0,0,1,56,14,515,joey's apartment,boys,boys,ross,ross
+2,08,49,477,0,0,20,176,0,0,0,0,0,0,28,20,6,4,0,0,0,0,0,0,0,68,0,651,monica and chandler's apartment,boys,boys,ross,ross
+2,09,37,372,33,244,36,277,26,229,34,261,50,536,37,2,0,0,0,0,0,0,0,0,110,102,1026,885,monica and chandler's apartment,girls,girls,phoebe,phoebe
+2,10,39,297,0,0,34,386,0,0,0,0,0,0,5,9,20,0,0,0,6,0,0,0,0,73,0,683,phoebe turns back around but rachel is gone,boys,boys,ross,joey
+2,11,41,308,21,184,19,222,36,281,29,316,28,287,0,0,0,0,0,0,0,0,0,0,93,79,884,710,at ross's,girls,girls,ross,monica
+2,12-13,49,482,69,712,64,561,56,498,51,409,48,462,14,24,14,4,0,0,0,0,0,0,150,182,1349,1755,san diego zoo,boys,boys,chandler,chandler
+2,14,44,432,36,379,21,180,30,241,45,365,16,136,89,44,16,0,0,0,0,0,0,0,90,100,740,987,monica and chandler's apartment,boys,boys,monica,ross
+2,15,55,422,26,199,25,160,53,429,46,365,19,171,21,0,32,0,0,0,0,0,0,0,117,97,961,755,dr,girls,girls,ross,rachel
+2,16,22,204,42,387,50,527,28,227,35,321,29,278,31,0,56,0,0,0,0,0,0,0,91,114,824,1118,joey's apartment,boys,boys,joey,joey
+2,17,40,347,37,353,38,362,18,167,42,350,33,380,55,16,43,0,0,0,0,0,0,0,93,115,897,1062,monica and chandler's apartment,boys,boys,monica,phoebe
+2,18,30,203,37,328,17,184,32,276,35,300,20,248,55,26,15,0,0,0,0,0,0,0,86,84,819,715,monica and chandler's apartment,girls,girls,chandler,chandler
+2,19,37,325,42,345,59,537,25,247,30,189,20,180,18,68,91,0,0,0,0,0,0,0,75,138,616,1207,joey's apartment,boys,boys,joey,joey
+2,20,59,517,27,247,25,232,47,363,42,427,26,274,102,33,34,64,0,0,0,0,0,0,115,111,1064,996,monica and chandler's apartment,girls,girls,ross,ross
+2,21,43,363,43,372,33,269,35,237,26,266,44,424,75,45,2,0,0,0,0,0,0,0,105,118,927,1001,monica and chandler's apartment,boys,boys,phoebe,phoebe
+2,22,31,291,29,276,16,175,30,296,39,436,22,235,11,10,0,0,0,0,0,0,0,0,91,76,967,742,ad break,girls,girls,monica,monica
+2,23,15,129,31,312,33,356,18,167,38,354,38,397,98,16,0,0,0,0,0,0,0,0,94,79,918,797,monica and chandler's apartment,girls,girls,monica,phoebe
+2,24,21,201,25,235,19,248,33,275,33,334,23,272,53,21,14,0,0,0,0,0,0,0,89,65,881,684,monica and chandler's apartment,girls,girls,rachel,monica
+3,01,49,401,41,318,37,392,39,285,30,273,19,236,86,59,39,0,0,0,0,0,0,0,88,127,794,1111,monica and chandler's apartment,boys,boys,ross,ross
+3,02,78,738,46,393,39,336,45,388,33,314,29,255,274,0,0,0,0,0,0,0,0,0,107,160,957,1458,monica and chandler's apartment,boys,boys,ross,ross
+3,03,36,267,27,219,38,349,32,227,34,311,37,373,129,50,2,0,0,0,0,0,0,0,103,100,911,833,monica and chandler's apartment,girls,girls,joey,phoebe
+3,04,23,213,48,469,44,415,25,191,30,282,36,367,122,63,32,0,0,0,0,0,0,0,88,114,833,1094,monica and chandler's apartment,boys,boys,chandler,chandler
+3,05,35,246,41,342,35,303,26,218,25,229,56,447,37,51,47,0,0,39,0,0,0,0,107,111,894,891,central perk,girls,boys,phoebe,phoebe
+3,06,32,263,42,321,25,202,22,160,59,405,42,345,67,14,21,0,21,0,0,0,0,0,122,99,908,786,monica and chandler's apartment,girls,girls,monica,monica
+3,07,52,457,12,105,34,265,37,343,16,139,31,273,107,39,0,0,0,0,15,0,0,0,84,98,755,827,monica and chandler's apartment,boys,boys,ross,ross
+3,08,30,293,47,410,37,363,40,308,34,288,26,262,111,36,45,0,0,0,0,0,0,0,99,111,856,1034,monica and chandler's apartment,boys,boys,chandler,chandler
+3,09,63,511,45,417,42,364,34,254,69,578,24,211,47,0,0,0,0,0,0,0,0,0,127,143,1043,1246,the park,boys,boys,monica,monica
+3,10,55,545,30,282,25,235,33,324,16,125,20,177,38,52,0,0,6,0,0,0,0,0,69,109,626,1058,central perk,boys,boys,ross,ross
+3,11,54,433,52,484,42,357,57,418,44,346,18,153,106,32,59,0,0,0,0,0,0,0,119,148,917,1274,monica and chandler's apartment,boys,boys,rachel,chandler
+3,12,48,456,30,348,26,228,40,378,25,251,16,150,44,47,42,0,0,0,0,0,53,0,81,104,779,1032,rachel's office,boys,boys,ross,ross
+3,13,30,200,25,189,33,311,37,278,51,436,25,196,86,109,23,0,0,0,0,0,0,0,113,88,910,700,central perk,girls,girls,monica,monica
+3,14,29,275,30,296,23,196,24,214,28,219,35,351,67,55,30,0,0,0,0,0,19,0,86,80,782,753,monica and chandler's apartment,girls,girls,phoebe,phoebe
+3,15,45,377,25,239,21,174,46,427,28,260,34,286,105,26,0,0,0,0,18,0,30,0,107,91,971,790,monica and chandler's apartment,girls,girls,rachel,rachel
+3,16,88,751,24,185,21,189,54,504,34,227,32,251,75,2,16,0,0,0,0,0,0,0,119,133,979,1125,monica and chandler's apartment,boys,boys,ross,ross
+3,17,53,461,41,402,41,373,44,344,38,297,53,444,0,3,17,0,0,0,0,0,0,0,134,132,1083,1216,the rest stop,boys,girls,ross,ross
+3,18,21,166,23,183,22,180,23,210,34,277,42,366,51,69,46,0,0,37,0,0,0,0,99,64,853,516,central perk,girls,girls,phoebe,phoebe
+3,19,38,302,36,326,31,281,35,279,20,172,17,125,59,33,51,0,2,0,0,0,0,0,71,104,574,907,monica and chandler's apartment,boys,boys,ross,chandler
+3,20,25,163,35,321,45,359,44,312,23,182,30,282,116,13,1,0,0,0,0,0,42,0,97,102,776,837,monica and chandler's apartment,boys,boys,joey,joey
+3,21,70,513,42,350,30,254,72,525,55,457,30,214,121,36,67,0,10,0,0,0,0,0,157,142,1196,1117,monica and chandler's apartment,girls,girls,rachel,rachel
+3,22,38,287,22,166,53,418,27,191,31,208,24,222,102,17,0,0,0,0,0,0,0,0,81,112,617,867,monica and chandler's apartment,boys,boys,joey,joey
+3,23,34,276,20,161,23,186,20,175,36,297,46,445,11,91,21,0,0,0,0,0,0,0,102,75,917,619,central perk,girls,girls,phoebe,phoebe
+3,24,18,170,27,250,11,86,30,240,42,333,35,325,37,35,0,0,0,0,0,0,0,0,107,56,898,506,chandler's office,girls,girls,monica,monica
+3,25,45,323,32,260,30,235,51,361,29,198,66,619,0,3,0,0,0,0,0,0,0,0,146,104,1178,812,the beach house,girls,girls,phoebe,phoebe
+4,01,46,390,24,201,25,225,37,287,27,175,55,481,41,30,0,0,0,0,0,0,0,0,117,91,938,806,the beach house,girls,girls,phoebe,phoebe
+4,02,34,291,29,264,29,283,43,366,41,331,26,239,65,50,76,0,0,0,0,0,0,0,108,90,927,826,joey's apartment,girls,girls,rachel,rachel
+4,03,5,32,60,431,26,220,45,375,39,326,23,188,7,22,52,0,0,0,0,0,8,0,105,88,877,673,joanna's office,girls,girls,chandler,chandler
+4,04,19,156,26,197,48,458,29,207,26,225,31,289,89,29,0,0,0,0,0,0,0,0,86,93,721,811,monica and chandler's apartment,boys,boys,joey,joey
+4,05,29,212,53,413,20,186,28,206,31,236,26,248,87,75,37,0,0,0,0,0,0,0,85,102,690,811,monica and chandler's apartment,boys,boys,chandler,chandler
+4,06,28,267,47,462,38,377,25,279,33,335,34,352,57,3,27,0,0,0,0,0,0,0,92,113,966,1106,monica and chandler's apartment,boys,boys,chandler,chandler
+4,07,27,234,86,679,48,466,10,72,16,126,22,213,19,62,131,0,0,0,0,0,0,0,48,161,411,1379,joey's apartment,boys,boys,chandler,chandler
+4,08,34,312,44,389,47,378,29,237,48,370,24,217,163,7,44,0,0,0,0,0,0,0,101,125,824,1079,monica and chandler's apartment,boys,boys,monica,chandler
+4,09,35,245,29,231,30,257,43,346,44,454,36,290,87,45,43,0,0,0,0,0,57,0,123,87,1090,719,monica and chandler's apartment,girls,girls,monica,monica
+4,10,19,200,51,453,31,294,32,284,37,351,27,227,40,69,35,0,0,0,0,0,0,0,95,98,860,941,central perk,boys,boys,chandler,chandler
+4,11,19,168,28,245,20,191,23,209,33,258,54,470,87,73,0,0,0,0,0,0,0,0,109,66,933,600,monica and chandler's apartment,girls,girls,phoebe,phoebe
+4,12,48,394,46,312,43,254,51,371,55,401,28,263,236,0,5,0,0,0,0,0,0,0,134,135,1035,953,monica and chandler's apartment,girls,boys,monica,monica
+4,13,38,239,37,404,35,287,49,413,30,283,32,243,109,24,16,0,3,0,0,0,0,0,111,110,939,930,monica and chandler's apartment,girls,girls,rachel,rachel
+4,14,25,202,39,358,35,303,64,472,47,354,36,295,110,25,47,0,0,0,0,0,0,0,147,99,1121,863,monica and chandler's apartment,girls,girls,rachel,rachel
+4,15,42,408,40,366,26,216,26,211,22,213,17,149,35,32,74,0,0,0,0,0,0,0,65,108,573,990,joey's apartment,boys,boys,ross,ross
+4,16,28,236,20,119,38,317,76,613,13,101,24,201,64,29,0,0,38,0,0,0,0,0,113,84,915,664,monica and chandler's apartment,girls,girls,rachel,rachel
+4,17,43,338,36,302,31,219,22,186,44,389,36,326,126,24,59,0,0,0,0,0,0,0,102,108,901,844,monica and chandler's apartment,girls,boys,monica,monica
+4,18,38,337,33,269,24,218,39,328,11,92,35,291,85,44,20,39,0,0,0,0,0,0,85,95,711,824,monica and chandler's apartment,boys,boys,rachel,ross
+4,19,44,395,53,403,51,351,29,259,30,221,26,212,126,34,8,34,26,0,0,0,0,0,85,148,692,1149,monica and chandler's apartment,boys,boys,chandler,chandler
+4,20,41,281,33,269,22,189,56,477,46,349,36,192,113,77,34,0,0,0,0,0,0,0,138,95,1018,737,monica and chandler's apartment,girls,girls,rachel,rachel
+4,21,70,624,30,229,28,195,72,589,19,146,11,94,92,43,5,18,7,0,1,0,0,0,100,126,819,1038,monica and chandler's apartment,boys,boys,rachel,ross
+4,22,40,375,32,246,66,630,32,236,34,246,34,316,87,44,85,0,0,0,0,0,0,0,99,138,796,1251,monica and chandler's apartment,boys,boys,joey,joey
+4,23,66,576,53,418,70,526,60,495,50,382,77,756,122,0,2,0,0,0,0,0,0,0,187,188,1633,1511,monica and chandler's apartment,girls,boys,phoebe,phoebe
+5,01,55,392,49,340,22,228,45,339,43,324,12,91,27,0,0,0,0,0,0,0,0,0,100,126,754,960,the wedding reception,boys,boys,ross,ross
+5,02,40,344,29,253,29,210,61,546,49,470,24,211,77,94,0,0,43,0,0,0,0,0,134,98,1227,807,central perk,girls,girls,rachel,rachel
+5,03,16,115,30,218,30,249,33,321,26,199,52,446,0,0,0,0,0,0,0,0,0,21,111,76,966,582,the delivery room,girls,girls,phoebe,phoebe
+5,04,36,376,31,291,35,354,18,205,42,319,29,282,112,24,14,34,0,0,0,0,0,0,89,102,806,1021,monica and chandler's apartment,boys,boys,monica,ross
+5,05,35,340,60,477,41,326,41,342,58,504,18,144,82,62,35,0,0,0,0,0,0,0,117,135,990,1139,monica and chandler's apartment,boys,boys,chandler,monica
+5,06,38,372,20,157,40,395,37,336,36,300,28,262,55,67,11,21,0,0,0,0,0,0,101,97,898,922,central perk,boys,girls,joey,joey
+5,07,31,297,47,316,54,390,33,328,34,238,24,189,35,78,52,0,0,0,11,0,0,0,91,132,755,1003,central perk,boys,boys,joey,joey
+5,08,27,244,46,406,20,170,33,313,63,563,24,235,99,0,0,0,5,0,0,0,0,19,120,93,1111,820,monica and chandler's apartment,girls,girls,monica,monica
+5,09,38,313,28,216,37,346,38,356,30,245,37,367,22,58,0,0,12,0,0,0,0,0,105,103,968,875,central perk,girls,girls,ross,phoebe
+5,10,39,347,35,295,52,515,30,305,32,236,31,276,47,39,0,0,0,0,0,0,0,0,93,125,817,1155,chandler,boys,boys,joey,joey
+5,11,50,442,19,172,76,635,37,327,17,167,32,294,159,32,0,0,0,0,0,0,0,0,86,143,788,1245,monica and chandler's apartment,boys,boys,joey,joey
+5,12,33,320,42,360,31,256,38,355,53,528,20,123,38,55,0,0,0,0,0,0,0,0,111,106,1006,936,chandler,girls,girls,monica,monica
+5,13,15,88,34,247,43,429,24,235,30,271,61,553,64,95,0,0,0,0,0,0,0,0,115,92,1059,764,central perk,girls,girls,phoebe,phoebe
+5,14,28,288,58,469,29,242,49,401,33,246,64,589,89,40,0,0,24,0,0,0,0,0,145,115,1234,999,monica and chandler's apartment,girls,girls,phoebe,phoebe
+5,15,48,371,42,403,29,218,24,237,34,321,25,242,30,81,37,51,18,0,0,0,0,0,83,118,800,986,central perk,boys,boys,ross,chandler
+5,16,41,379,32,264,49,422,42,332,27,189,39,386,52,21,72,0,0,0,0,0,0,0,108,118,907,1054,joey's apartment,boys,boys,joey,joey
+5,17,17,121,30,262,28,299,37,323,52,466,24,230,86,40,0,0,0,0,13,0,0,0,113,75,1019,682,monica and chandler's apartment,girls,girls,monica,monica
+5,18,44,322,29,223,60,533,40,416,26,218,25,218,87,33,34,0,0,0,0,0,0,0,91,132,852,1076,monica and chandler's apartment,boys,boys,joey,joey
+5,19,52,452,56,483,28,298,48,463,39,319,45,367,245,0,26,0,0,0,0,0,0,0,132,136,1149,1233,monica and chandler's apartment,boys,boys,chandler,chandler
+5,20,53,453,43,327,45,367,50,375,25,288,11,84,19,63,34,82,0,0,0,0,0,0,86,139,747,1143,ross's apartment,boys,boys,ross,ross
+5,21,36,241,39,358,32,252,41,371,40,403,57,478,66,44,85,0,0,0,0,0,0,0,138,105,1252,847,joey's apartment,girls,girls,phoebe,phoebe
+5,22,37,303,49,433,72,654,54,356,47,399,50,435,109,130,0,0,0,0,0,0,0,0,151,158,1190,1390,central perk,boys,boys,joey,joey
+5,23,69,578,101,776,82,785,68,588,83,675,87,736,96,0,0,0,0,0,0,0,0,0,238,250,1999,2133,monica and chandler's apartment,boys,boys,chandler,joey
+6,01,35,296,54,380,34,322,32,263,46,362,40,362,47,31,0,0,16,0,0,0,0,0,118,123,987,998,monica and chandler's apartment,boys,boys,chandler,chandler
+6,02,44,388,29,237,15,134,44,345,55,483,40,383,105,68,14,0,10,0,0,0,0,0,139,88,1211,759,monica and chandler's apartment,girls,girls,monica,monica
+6,03,58,532,43,363,28,313,41,373,35,256,31,284,103,110,25,8,0,0,0,0,0,0,107,129,913,1208,central perk,boys,boys,ross,ross
+6,04,37,328,31,234,47,447,41,276,26,170,31,258,65,54,31,0,0,0,0,5,0,0,98,115,704,1009,monica and chandler's apartment,boys,boys,joey,joey
+6,05,37,314,36,329,35,325,43,446,29,271,32,318,117,19,0,31,0,0,0,0,0,0,104,108,1035,968,monica and chandler's apartment,girls,boys,rachel,rachel
+6,06,15,161,62,542,42,324,42,346,60,481,35,344,132,0,79,11,0,0,0,0,0,0,136,119,1169,1027,monica and chandler's apartment,girls,girls,chandler,chandler
+6,07,38,374,48,487,34,338,39,297,31,288,35,225,61,15,0,0,0,16,0,0,0,0,105,119,810,1197,monica and chandler's apartment,boys,boys,chandler,chandler
+6,08,35,244,35,301,34,323,41,391,30,301,26,223,0,40,0,14,0,0,0,0,13,0,97,103,915,866,joey and janine's apartment,girls,boys,rachel,rachel
+6,09,51,458,36,305,38,329,39,354,40,385,17,184,20,0,0,0,12,0,0,0,0,0,96,123,923,1087,monica and chandler's apartment,boys,boys,ross,ross
+6,10,33,262,37,325,33,346,28,266,32,322,27,211,92,43,0,0,0,0,0,0,0,0,85,101,791,915,monica and chandler's apartment,boys,boys,chandler,joey
+6,11,27,230,34,269,57,520,56,492,43,339,43,404,31,44,0,45,42,47,0,0,0,0,142,118,1235,1019,phoebe's apartment,girls,girls,joey,joey
+6,12,35,295,53,429,45,477,34,324,50,417,25,189,70,132,16,0,0,32,0,0,0,0,106,132,923,1197,central perk,boys,boys,chandler,joey
+6,13,28,215,31,259,22,166,63,503,33,322,25,189,102,139,0,0,0,18,0,0,0,0,121,80,1014,635,central perk,girls,girls,rachel,rachel
+6,14,37,340,33,277,30,247,52,496,33,268,23,192,122,89,0,25,0,0,0,0,0,0,108,100,956,864,monica and chandler's apartment,girls,girls,rachel,rachel
+6,15-16,90,703,78,607,79,731,81,700,99,791,62,561,128,146,43,0,0,0,0,0,0,34,242,247,2052,2041,central perk,girls,boys,monica,monica
+6,17,42,353,56,475,32,321,22,174,31,265,24,165,56,70,0,18,8,11,0,0,0,0,76,130,602,1149,central perk,boys,boys,chandler,chandler
+6,18,41,364,49,387,40,386,31,252,32,278,35,309,82,27,64,13,0,38,15,0,0,0,98,130,839,1137,monica and chandler's apartment,boys,boys,chandler,chandler
+6,19,55,452,47,360,32,331,48,373,32,274,45,400,43,174,31,0,0,0,0,0,0,0,125,134,1047,1143,central perk,boys,boys,ross,ross
+6,20,32,226,60,533,65,652,20,174,24,153,24,203,17,24,81,0,0,0,0,0,0,0,67,157,526,1411,joey's apartment,boys,boys,joey,joey
+6,21,42,347,35,253,33,328,41,372,29,226,29,242,69,102,26,0,0,0,39,0,0,0,97,110,834,928,central perk,boys,boys,ross,rachel
+6,22,31,274,19,129,26,239,41,332,31,247,31,265,32,58,0,0,0,0,0,0,0,0,102,76,841,642,central perk,girls,girls,rachel,rachel
+6,23,31,238,51,449,25,190,36,333,4,37,52,477,33,63,96,0,0,0,24,0,0,0,92,107,847,877,joey's apartment,boys,boys,phoebe,phoebe
+6,24,47,390,84,733,88,663,87,645,92,774,62,486,104,113,27,19,26,0,34,0,0,0,241,219,1905,1786,central perk,girls,girls,monica,monica
+7,01,48,334,44,359,32,232,60,508,49,433,29,266,133,0,24,0,0,0,0,0,0,0,138,124,1207,925,monica and chandler's apartment,girls,girls,rachel,rachel
+7,02,32,312,37,316,33,259,38,316,45,401,23,229,106,27,31,22,0,0,28,0,0,0,105,102,943,887,monica and chandler's apartment,girls,girls,monica,monica
+7,03,38,328,40,318,55,438,54,521,42,381,30,282,95,92,0,0,0,0,0,0,0,0,125,132,1182,1082,monica and chandler's apartment,girls,boys,joey,rachel
+7,04,28,256,39,317,33,326,61,525,43,308,19,132,90,65,18,0,0,0,0,0,32,0,121,100,959,899,monica and chandler's apartment,girls,girls,rachel,rachel
+7,05,43,355,38,302,28,245,55,482,23,176,47,442,19,106,31,31,0,0,0,0,55,0,125,109,1100,902,central perk,girls,girls,rachel,rachel
+7,06,35,236,37,376,44,381,52,420,39,361,43,320,55,61,81,24,0,0,25,0,0,0,134,114,1101,986,joey's apartment,girls,girls,rachel,rachel
+7,07,21,223,27,220,53,425,48,385,30,263,29,184,31,63,90,0,0,0,8,0,0,0,102,101,815,868,joey's apartment,boys,girls,joey,joey
+7,08,37,334,49,451,28,280,42,399,37,344,37,350,44,0,0,11,0,0,0,0,0,0,114,113,1087,1062,the dog barks,girls,girls,chandler,chandler
+7,09,42,357,34,267,20,168,37,351,40,369,40,324,77,60,0,0,47,0,0,0,50,0,117,95,1044,788,monica and chandler's apartment,girls,girls,ross,monica
+7,10,41,399,46,367,13,103,41,345,31,246,49,387,49,34,39,21,3,26,0,0,0,0,120,99,976,867,monica and chandler's apartment,girls,girls,phoebe,ross
+7,11,29,293,41,350,41,388,37,334,29,263,57,448,23,79,43,0,4,0,0,0,0,0,123,111,1045,1031,central perk,girls,girls,phoebe,phoebe
+7,12,35,294,25,210,35,302,29,344,25,228,15,152,34,0,19,0,0,17,0,0,0,0,69,95,724,806,the fire escape,boys,boys,ross,rachel
+7,13,45,405,18,169,39,285,47,391,34,302,47,458,56,13,69,0,0,0,0,0,0,0,128,102,1151,859,joey's apartment,girls,girls,rachel,phoebe
+7,14,27,257,39,338,28,228,45,436,31,239,38,315,0,0,34,0,0,0,0,0,0,0,114,94,990,823,rachel's birthday,girls,girls,rachel,rachel
+7,15,23,193,21,163,62,534,66,548,24,219,47,381,73,31,34,0,0,63,0,0,0,0,135,105,1141,888,silvercup studios,girls,girls,rachel,rachel
+7,16,39,350,67,545,58,513,66,504,64,475,27,249,74,72,81,0,4,0,0,0,0,0,157,163,1228,1397,joey's apartment,boys,boys,chandler,chandler
+7,17,55,477,34,306,60,537,17,134,47,377,18,138,48,59,0,24,0,0,0,0,0,0,82,147,649,1314,central perk,boys,boys,joey,joey
+7,18,27,277,9,78,47,409,42,354,33,306,28,247,16,54,66,0,0,0,0,0,0,0,103,83,907,764,joey's apartment,girls,girls,joey,joey
+7,19,21,168,10,91,46,360,39,314,58,477,46,324,65,31,40,25,0,54,0,0,0,0,141,77,1108,619,monica and chandler's apartment,girls,girls,monica,monica
+7,20,18,157,40,336,41,371,72,601,36,296,22,172,87,57,41,0,0,0,14,0,0,0,130,99,1069,864,monica and chandler's apartment,girls,girls,rachel,rachel
+7,21,24,189,64,556,39,309,35,275,56,453,38,303,27,23,4,0,0,0,0,0,0,0,128,127,1029,1054,cut to later in that episode,boys,girls,chandler,chandler
+7,22,38,327,29,283,35,332,48,344,31,275,28,198,48,82,0,0,0,0,0,0,0,0,107,102,817,942,central perk,boys,girls,rachel,rachel
+7,23,82,652,62,478,73,612,77,574,63,538,58,452,110,44,43,0,10,0,0,0,0,0,198,216,1564,1740,monica and chandler's apartment,boys,boys,ross,ross
+7,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,boys,boys,ross,ross
+8,01,39,351,24,205,25,263,46,338,46,370,43,302,0,0,0,0,7,0,0,0,0,0,135,88,1010,819,the wedding hall,girls,girls,rachel,monica
+8,02,39,278,43,355,35,283,35,334,42,338,52,455,128,30,0,0,0,0,0,0,0,0,128,117,1123,916,monica and chandler's apartment,girls,girls,phoebe,phoebe
+8,03,68,607,22,171,38,313,56,478,31,291,33,237,86,0,57,18,0,0,0,0,0,0,120,128,1006,1091,monica and chandler's apartment,boys,boys,ross,ross
+8,04,85,658,21,205,45,402,62,517,33,302,18,147,142,0,92,10,25,0,0,0,0,0,113,149,966,1258,monica and chandler's apartment,boys,boys,ross,ross
+8,05,60,497,26,219,45,434,37,284,34,292,39,315,21,35,80,0,0,0,0,0,0,0,110,131,891,1150,joey's apartment,boys,boys,ross,ross
+8,06,26,196,32,226,35,293,34,362,36,285,51,358,155,19,0,0,66,0,0,0,0,0,121,93,1005,715,monica and chandler's apartment,girls,girls,phoebe,rachel
+8,07,34,263,33,253,31,245,41,345,42,370,33,284,83,62,48,0,11,0,0,0,0,0,116,98,999,761,monica and chandler's apartment,girls,girls,monica,monica
+8,08,36,339,42,337,34,311,43,406,20,230,22,193,65,66,20,51,0,0,32,0,0,0,85,112,829,987,central perk,boys,boys,rachel,rachel
+8,09,36,306,16,145,28,250,48,388,62,549,31,239,239,0,32,0,0,0,0,0,0,0,141,80,1176,701,monica and chandler's apartment,girls,girls,monica,monica
+8,10,23,184,33,278,37,354,42,336,38,386,50,452,17,80,52,0,38,0,0,0,11,0,130,93,1174,816,central perk,girls,girls,phoebe,phoebe
+8,11,42,373,18,179,22,161,45,386,18,166,29,241,7,84,54,32,0,0,0,0,0,0,92,82,793,713,central perk,girls,girls,rachel,rachel
+8,12,15,177,25,239,70,711,67,652,30,276,16,165,72,50,56,0,0,0,40,0,0,0,113,110,1093,1127,monica and chandler's apartment,boys,girls,joey,joey
+8,13,46,366,51,425,26,243,49,346,56,477,41,330,133,75,6,0,0,0,0,0,0,0,146,123,1153,1034,monica and chandler's apartment,girls,girls,monica,monica
+8,14,28,265,34,308,54,461,40,349,53,351,43,345,71,35,67,0,29,20,0,0,0,35,136,116,1045,1034,monica and chandler's apartment,girls,girls,joey,joey
+8,15,55,499,29,236,41,310,26,255,30,242,25,234,86,84,0,0,0,0,0,4,0,0,81,125,731,1045,monica and chandler's apartment,boys,boys,ross,ross
+8,16,36,316,29,247,51,488,33,256,31,299,23,179,18,88,32,0,0,0,44,17,0,0,87,116,734,1051,central perk,boys,boys,joey,joey
+8,17,12,104,24,234,30,225,54,456,35,310,35,290,86,30,0,0,1,0,25,7,0,0,124,65,1056,561,monica and chandler's apartment,girls,girls,rachel,rachel
+8,18,45,403,12,100,17,163,35,310,25,244,40,359,44,22,0,0,0,26,0,17,0,0,100,72,913,662,the anniversary party,girls,girls,ross,ross
+8,19,28,187,28,203,95,894,27,212,8,59,17,117,28,29,20,0,4,0,0,0,0,0,50,150,383,1281,central perk,boys,boys,joey,joey
+8,20,48,376,33,222,46,433,53,518,36,348,28,258,156,0,94,0,0,0,0,12,0,0,117,127,1124,1031,monica and chandler's apartment,girls,boys,rachel,rachel
+8,21,47,386,37,281,22,201,53,487,34,295,25,228,39,52,0,0,0,0,0,80,0,0,112,106,1010,868,ross and rachel's apartment,girls,girls,rachel,rachel
+8,22,45,362,29,252,38,371,55,497,32,294,23,195,104,46,0,0,0,0,0,32,0,0,110,112,986,985,monica and chandler's apartment,girls,boys,rachel,rachel
+8,23,96,775,36,299,56,461,108,814,42,360,57,454,0,0,0,0,18,0,0,0,0,31,207,188,1628,1535,the semi-private labor room,girls,girls,rachel,rachel
+9,01,60,471,27,239,54,494,61,428,26,187,31,292,139,0,0,0,0,0,0,0,0,0,118,141,907,1204,monica and chandler's apartment,boys,boys,rachel,joey
+9,02,61,439,28,259,49,420,45,452,40,291,22,239,0,52,0,0,0,0,0,144,0,35,107,138,982,1118,ross and rachel's apartment,boys,boys,ross,rachel
+9,03,35,295,39,293,50,354,29,235,38,279,39,309,0,0,0,0,0,0,0,0,0,0,106,123,823,939,scene,boys,boys,joey,joey
+9,04,37,319,16,124,33,294,11,88,31,288,35,306,0,211,0,0,0,0,0,0,0,0,77,86,682,737,central perk,boys,boys,ross,ross
+9,05,37,369,47,436,30,249,37,347,45,377,37,363,0,16,0,0,0,0,80,0,0,0,119,111,1087,1045,a restaurant,girls,girls,chandler,chandler
+9,06,53,480,31,262,30,223,36,299,32,275,52,441,71,21,21,0,0,73,0,90,0,0,120,114,1015,965,ross and rachel's apartment,girls,girls,ross,ross
+9,07,19,138,31,273,24,231,24,193,24,225,43,366,63,17,0,0,0,0,0,35,0,0,89,74,778,642,monica and chandler's apartment,girls,girls,phoebe,phoebe
+9,08,31,222,37,328,33,277,60,458,36,322,26,199,0,0,0,0,0,0,0,0,0,0,122,95,979,800,chandler is packing the broken china in its box,girls,girls,rachel,rachel
+9,09,36,357,48,466,34,335,48,439,35,314,30,278,53,0,0,0,0,0,0,100,0,0,113,118,1031,1158,ross and rachel's apartment,boys,boys,chandler,chandler
+9,10,21,192,118,1463,12,86,17,201,67,597,21,211,148,1,0,0,0,0,0,0,0,0,105,151,1009,1741,monica and chandler's apartment,boys,boys,chandler,chandler
+9,11,21,246,31,411,32,431,39,539,29,387,31,332,0,0,0,0,0,0,0,0,0,0,99,84,1258,1088,closing credits[scene,girls,girls,rachel,rachel
+9,12,25,256,29,237,30,262,56,619,22,222,31,309,0,0,0,0,0,0,0,0,45,0,109,79,1150,737,coffee place,girls,girls,rachel,rachel
+9,13,54,563,42,385,29,255,56,494,30,310,27,273,0,0,0,0,0,0,0,0,0,0,113,125,1077,1203,0,boys,boys,rachel,ross
+9,14,32,312,34,302,57,515,45,404,41,333,41,403,74,41,47,0,0,0,0,0,0,0,127,121,1140,1110,monica and chandler's apartment,girls,girls,joey,joey
+9,15,37,532,30,498,57,695,11,84,39,285,44,594,43,89,0,0,0,0,0,0,0,0,93,123,959,1722,central perk,boys,boys,joey,joey
+9,16,22,232,41,374,35,304,24,236,41,353,55,475,31,51,61,24,0,79,0,0,0,0,118,91,1053,874,phoebe's apartment,girls,girls,phoebe,phoebe
+9,17,38,652,47,649,33,378,25,327,52,568,33,387,24,0,16,37,0,62,0,0,0,0,110,118,1282,1679,phoebe's apartment,boys,boys,monica,ross
+9,18,50,411,50,404,43,313,42,361,57,459,34,286,149,4,0,0,0,0,0,0,0,0,132,141,1101,1121,monica and chandler's apartment,boys,boys,monica,monica
+9,19,35,476,36,391,45,750,53,548,47,633,36,511,0,40,31,0,0,0,0,0,0,0,134,111,1673,1579,central perk,girls,girls,rachel,joey
+9,20,59,786,17,219,42,489,67,764,56,456,21,244,0,0,0,0,0,0,0,0,0,0,142,107,1458,1408,the roof,girls,girls,rachel,ross
+9,21,47,435,34,300,43,386,37,351,29,249,38,323,17,30,16,0,0,0,0,0,0,0,104,124,923,1121,central perk,boys,boys,ross,ross
+9,22,22,349,53,705,26,344,53,542,34,348,46,509,22,93,13,0,0,0,0,0,0,0,133,100,1399,1395,central perk,girls,girls,chandler,chandler
+9,23-24,91,1204,76,904,92,1041,66,589,87,973,44,493,0,0,0,0,0,0,0,0,0,0,197,258,2055,3145,the hotel game room,boys,boys,joey,ross
+10,01,67,519,41,303,49,333,65,454,44,334,48,377,35,0,0,17,0,0,0,0,0,0,156,153,1163,1137,barbados,girls,girls,ross,ross
+10,02,44,450,25,220,41,332,30,230,24,184,30,246,0,0,262,0,0,0,0,0,0,0,84,107,660,980,joey's apartment,boys,boys,ross,ross
+10,03,34,250,38,301,48,354,44,329,44,262,28,207,19,35,15,0,0,0,0,0,0,0,116,117,798,899,central perk,boys,boys,joey,joey
+10,04,47,412,35,341,49,442,51,499,37,357,34,290,0,0,110,0,0,0,0,0,0,0,121,129,1144,1191,joey's apartment,boys,boys,rachel,rachel
+10,05,37,308,26,232,37,335,76,614,30,269,36,335,97,65,17,21,0,0,0,0,0,0,142,99,1218,872,monica and chandler's apartment,girls,girls,rachel,rachel
+10,06,55,428,36,282,39,285,43,285,30,219,29,246,29,83,17,0,0,18,31,0,0,0,102,128,750,982,central perk,boys,boys,ross,ross
+10,07,40,377,42,365,25,237,35,312,33,361,36,397,110,8,0,0,0,0,0,0,0,0,104,106,1070,964,monica and chandler's apartment,girls,boys,chandler,phoebe
+10,08,55,459,49,615,66,622,55,592,54,592,49,555,49,25,27,0,0,0,0,0,0,0,157,169,1735,1692,monica and chandler's apartment,girls,boys,joey,joey
+10,09,29,347,42,530,53,587,22,344,38,482,31,303,0,63,0,0,0,0,19,0,0,0,91,123,1129,1456,a clothes store,boys,boys,joey,joey
+10,10,42,478,56,592,31,266,47,511,68,745,43,528,80,57,13,0,0,0,0,0,0,0,157,129,1782,1336,they all look at the window,girls,girls,monica,monica
+10,11,65,669,56,495,37,349,27,320,37,357,28,301,103,25,0,0,0,0,0,0,0,0,92,156,978,1506,monica and chandler's apartment,boys,boys,ross,ross
+10,12,43,439,42,517,43,592,29,308,48,704,71,1035,20,73,54,0,0,0,0,0,0,0,147,127,2043,1544,central perk,girls,girls,phoebe,phoebe
+10,13,74,738,27,292,44,340,64,625,29,296,43,370,43,51,77,0,0,0,0,0,0,23,136,145,1291,1370,joey's apartment,boys,boys,ross,ross
+10,14,39,506,30,294,39,573,51,512,34,337,51,475,50,104,3,0,0,0,30,0,0,0,136,107,1324,1371,central perk,boys,girls,rachel,joey
+10,15,50,450,34,312,29,274,32,291,23,207,32,300,0,42,35,30,0,0,0,0,0,0,87,112,798,1034,central perk,boys,boys,ross,ross
+10,16,48,592,42,467,31,323,45,581,54,686,31,352,136,0,0,9,0,0,0,0,0,0,129,117,1615,1348,monica and chandler's apartment,girls,girls,monica,monica
+10,17-18,113,797,83,630,84,681,74,600,72,593,86,685,133,34,128,21,0,0,0,0,0,85,231,279,1876,2106,monica and chandler's apartment,boys,boys,ross,ross
