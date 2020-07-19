@@ -1,4 +1,4 @@
-#FriendsRaitingSource
+# FriendsRaitingSource
 
 The theme of the project is the Friends series.
 The research question, the work process, results, literature review, databases and more are in the following link:
